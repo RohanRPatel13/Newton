@@ -1,8 +1,8 @@
 # Newton
 
 ## Objectives
-Exposure to using double variables, while loops, and static methods
-Exposure to using several Eclipse features including creating a project by copying an existing project, renaming a Java file using refactoring, deleting files, creating a file by copying an existing file, using the Java editor, and exporting a project
+1. Exposure to using double variables, while loops, and static methods
+2. Exposure to using several Eclipse features including creating a project by copying an existing project, renaming a Java file using refactoring, deleting files, creating a file by copying an existing file, using the Java editor, and exporting a project
 
 ## The Problem
 Your first job is to create a Java program that repeatedly asks the user whether they wish to calculate a square root. Each time, if the response is "y", then the program should proceed; if it is anything else, then the program should quit. Whenever it proceeds, the program should prompt the user for a number (a positive double, and your program may simply assume the input is consistent with this requirement) and then report the square root of that number to within a relative error of no more than 0.01%. The computation must be done using Newton iteration.
